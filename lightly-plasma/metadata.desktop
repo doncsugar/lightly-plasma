@@ -1,0 +1,35 @@
+[ContrastEffect]
+enabled=true
+
+# willow light's
+# contrast=.65
+# intensity=1.15
+# saturation=2.8
+
+# willow dark's
+# contrast=.4
+# intensity=.7
+# saturation=4
+
+[Desktop Entry]
+Comment=A plasma style with close to the look of Lightly.
+Name=Lightly Plasma
+X-KDE-PluginInfo-Author=doncsugar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=lightly-plasma
+X-KDE-PluginInfo-Version=.1
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=Next
+defaultWidth=1920
+
+[AdaptiveTransparency]
+enabled=true
